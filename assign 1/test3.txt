@@ -1,0 +1,36 @@
+aaggghhhh
+ggg
+[aagggggghhhh] 12 false 2 0 0 0 0 0 6 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[aagggggghhhh] 12 false 2 0 0 0 0 0 6 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[aahhhh] 6 false 2 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+null
+hello
+
+[ehllo] 5 false 0 0 0 0 1 0 0 1 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+[ehllo] 5 false 0 0 0 0 1 0 0 1 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+[ehllo] 5 false 0 0 0 0 1 0 0 1 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+null
+Four score and seven years ago
+See your greed!
+[aaacddeeeeeeeefggnnoooorrrrrssssuuvyy] 37 false 3 0 1 2 8 1 2 0 0 0 0 0 0 2 4 0 0 5 4 0 2 1 0 0 2 0
+[aaacddeeeeeeeefggnnoooorrrrrssssuuvyy] 37 false 3 0 1 2 8 1 2 0 0 0 0 0 0 2 4 0 0 5 4 0 2 1 0 0 2 0
+[aaacfnnoorssv] 13 false 3 0 1 0 0 1 0 0 0 0 0 0 0 2 2 0 0 1 2 0 0 1 0 0 0 0
+null
+Mitt Romney
+inert
+[eeiimmnnorrttty] 15 false 0 0 0 0 2 0 0 0 2 0 0 0 2 2 1 0 0 2 0 3 0 0 0 0 1 0
+[eeiimmnnorrttty] 15 false 0 0 0 0 2 0 0 0 2 0 0 0 2 2 1 0 0 2 0 3 0 0 0 0 1 0
+[mmoty] 5 false 0 0 0 0 0 0 0 0 0 0 0 0 2 0 1 0 0 0 0 1 0 0 0 0 1 0
+null
+Cellar Door
+Old Car Lore
+[aaccddeelllloooorrrr] 20 false 2 0 2 2 2 0 0 0 0 0 0 4 0 0 4 0 0 4 0 0 0 0 0 0 0 0
+[aaccddeelllloooorrrr] 20 false 2 0 2 2 2 0 0 0 0 0 0 4 0 0 4 0 0 4 0 0 0 0 0 0 0 0
+[] 0 true 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[] 0 true 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+one day at a time
+a stich in time
+[aaaacdeeehiiiimmnnostttty] 25 false 4 0 1 1 3 0 0 1 4 0 0 0 2 2 1 0 0 0 1 4 0 0 0 0 1 0
+[aaaacdeeehiiiimmnnostttty] 25 false 4 0 1 1 3 0 0 1 4 0 0 0 2 2 1 0 0 0 1 4 0 0 0 0 1 0
+null
+null

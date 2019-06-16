@@ -1,0 +1,71 @@
+14
+abc
+abcdefghijklmnopqrstuvwxyz
+hello
+Hello
+how are you?
+42
+ZZZ
+Do ALL CAPS bother you--when you read??
+xyzzy
+,,;^&@0123456789   --!!??
+
+   
+foo BARbaz
+The.Rain.In.Spain.falls.MAINLY.in.THE.plain--!
+3
+26
+5
+5
+9
+0
+3
+29
+5
+0
+0
+0
+9
+35
+false
+false
+false
+false
+false
+true
+false
+false
+false
+true
+true
+true
+false
+false
+1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+0 0 0 0 1 0 0 1 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 1 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 1 0 0 1 0 0 0 0 0 0 2 0 0 1 0 0 1 0 1 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 
+3 1 1 2 3 0 0 2 0 0 0 2 0 1 4 1 0 2 1 1 2 0 1 0 2 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 2 0 0 0 1 0 0 0 0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0 1 
+5 0 0 0 2 1 0 2 6 0 0 4 1 6 0 2 0 1 2 2 0 0 0 0 1 0 
+[abc]
+[abcdefghijklmnopqrstuvwxyz]
+[ehllo]
+[ehllo]
+[aehooruwy]
+[]
+[zzz]
+[aaabcddeeehhllnooooprrstuuwyy]
+[xyyzz]
+[]
+[]
+[]
+[aabbfoorz]
+[aaaaaeefhhiiiiiillllmnnnnnnpprsstty]
